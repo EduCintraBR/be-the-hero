@@ -12,3 +12,25 @@
 - React Native
 - Expo
 - Sqlite
+
+# Imagens da Aplicação Web
+
+#### Tela de Login
+<img src="/img/img1.png"/>
+
+#### Tela Principal.
+<img src="/img/img2.png"/>
+
+#### Tela de cadastro de casos.
+<img src="/img/img3.png"/>
+
+#### Tela Inicial de cadastro de Ongs.
+<img src="/img/img4.png"/>
+
+# Imagens do App Mobile
+
+#### Tela Inicial.
+<img src="/img/img6.jpeg"/>
+
+#### Tela de detalhes do caso.
+<img src="/img/img5.jpeg"/>
